@@ -1,0 +1,27 @@
+{
+  "name": "Node-homework",
+  "version": "1.0.0",
+  "description": "1. 01-node-basics",
+  "main": "index.js",
+  "dependencies": {
+    "nodemon": "^2.0.7",
+    "yargs": "16.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon ./index.js localhost 8080"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArturStahov/Node-homework.git"
+  },
+  "keywords": [],
+  "author": "YOUR_NAME <YOUR_EMAIL>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArturStahov/Node-homework/issues"
+  },
+  "homepage": "https://github.com/ArturStahov/Node-homework#readme"
+}
